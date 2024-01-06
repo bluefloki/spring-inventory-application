@@ -1,3 +1,3 @@
 ## Spring Based Inventory Application
 
-This project was complete in college
+This project was completed in college
